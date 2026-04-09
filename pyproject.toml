@@ -1,0 +1,9 @@
+[project]
+name = "gestion_hopital"
+version = "0.1.0"
+description = "Mini projet de gestion de patients"
+authors = [{name = "Antsa"}]
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
